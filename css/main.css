@@ -200,13 +200,15 @@ body {
 
 /* green header*/
 header {
-  background: #6ab47b;
-  border-color: #599a68;
+  background: ##584117;
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+  border-color: #582017;
 }
 
 /* nav background on mobile */
 nav {
-  background: #599a68;
+  background: #582017;
 }
 
 /* logo test */
