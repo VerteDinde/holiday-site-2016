@@ -194,10 +194,11 @@ COLORS
 
 /* site body */
 body {
-  background-image: url('../img/pdx_annex_bar.jpg');
+  background-color: #175841;
+  /*background-image: url('../img/pdx_annex_bar.jpg');*/
 }
 
-/* green header*/
+/* main header*/
 header {
   background: ##584117;
   opacity: 0.5;
