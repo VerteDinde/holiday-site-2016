@@ -195,8 +195,8 @@ COLORS
 /* site body */
 body {
   /*background: ##584117;*/
-  background-image: url('../img/Leaves-Table-Justin-Wilcox.jpg');
-  background-size: 25%;
+  background-image: url('../img/Leaves-Table-Justin-Wilcox.jpg') no-repeat center center fixed;
+  background-size: 100%;
 }
 
 /* formerly header*/
